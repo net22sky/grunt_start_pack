@@ -1,0 +1,33 @@
+{
+    "name": "grunt_startpack_frontend",
+    "version": "1.0.0",
+    "description": "",
+    "main": "Gruntfile.js",
+    "private": true,
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/net22sky/grunt_start_pack"
+    },
+    "keywords": [
+        "grunt",
+        "startpack",
+        "frontend",
+        "scss",
+        "css",
+        "js",
+        "Ts"
+    ],
+    "author": "net22sky <net22sky@i-22.ru> (https://i-22.ru)",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/net22sky/grunt_start_pack/issues"
+    },
+    "homepage": "https://i-22.ru",
+    "devDependencies": {
+        "grunt": "^1.6.1",
+        "grunt-contrib-watch": "^1.1.0"
+    }
+}
